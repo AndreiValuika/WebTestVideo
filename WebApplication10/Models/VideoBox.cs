@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 
-namespace WebApplication10.Models
+namespace WebVideoDomain.Models
 {
     public class FakeRepository
     {

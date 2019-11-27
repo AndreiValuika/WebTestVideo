@@ -1,7 +1,7 @@
 ﻿using System;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 
-namespace WebApplication10.Tests
+namespace WebVideoDomain.Tests
 {
     [TestClass]
     public class UnitTest1

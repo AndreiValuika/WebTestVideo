@@ -63,9 +63,9 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\WebApplication10\WebApplication10.csproj">
+    <ProjectReference Include="..\WebApplication10\WebVideoDomain.csproj">
       <Project>{F64D9C55-6852-4AE5-9BBF-891055372565}</Project>
-      <Name>WebApplication10</Name>
+      <Name>WebVideoDomain</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

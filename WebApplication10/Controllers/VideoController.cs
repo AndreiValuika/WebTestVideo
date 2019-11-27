@@ -1,9 +1,9 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Web.Http;
-using WebApplication10.Models;
+using WebVideoDomain.Models;
 
-namespace WebApplication10.Controllers
+namespace WebVideoDomain.Controllers
 {
     [RoutePrefix("api/videos")]
     public class VideoController : ApiController

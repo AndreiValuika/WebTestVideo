@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29503.13
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication10", "WebApplication10\WebApplication10.csproj", "{F64D9C55-6852-4AE5-9BBF-891055372565}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebVideoDomain", "WebApplication10\WebVideoDomain.csproj", "{F64D9C55-6852-4AE5-9BBF-891055372565}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication10.Tests", "WebApplication10.Tests\WebApplication10.Tests.csproj", "{10D96D41-8286-41F3-8F05-CC0C0DCF2216}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebVideoDomain.Tests", "WebApplication10.Tests\WebVideoDomain.Tests.csproj", "{10D96D41-8286-41F3-8F05-CC0C0DCF2216}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
